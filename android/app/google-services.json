@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425008209342",
+    "project_id": "ecomm-trainig",
+    "storage_bucket": "ecomm-trainig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425008209342:android:3220fb4df8793bd654edef",
+        "android_client_info": {
+          "package_name": "com.pavanjaju.e_comm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425008209342-dmpogkdh0dhvqb83q6v73csj4fse36i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF81fVrjGHRrUzaWOvCBWosN26YUhfrGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425008209342-dmpogkdh0dhvqb83q6v73csj4fse36i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
