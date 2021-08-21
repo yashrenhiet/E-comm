@@ -1,4 +1,4 @@
-package com.pavanjaju.e_comm_app
+package com.yasher.e_comm_app
 
 import io.flutter.embedding.android.FlutterActivity
 
